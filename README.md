@@ -16,3 +16,9 @@ Add the API key to your environment configuration file (e.g., .env file).
 2. Sending Requests
 Use fetch or an HTTP client like axios to send text data (e.g., user's input) to the Together AI API.
 Process the AI's response and convert it into actionable to-do items.
+
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **AI API**: [Together AI](https://www.together.ai)
